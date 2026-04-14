@@ -3,3 +3,5 @@ hello!
 edit for second push
 
 and again
+
+fixed the critical bug from fix/critical_bug
